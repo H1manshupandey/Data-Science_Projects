@@ -1,5 +1,5 @@
-# testrepo
+# Pojects for Data Science
 
-## Editing this file
-
-its a markdown file in this repository
+index
+* California Housing Project
+  
